@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'

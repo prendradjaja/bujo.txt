@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+while :
+do
+  _bujo.py "$1" | less -RS
+done
